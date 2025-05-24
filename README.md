@@ -7,7 +7,8 @@
 - 🌱 I’m learning *Python, SQL, Oracle Database & Apex, C#, and Data Analytics tools*
 - 💬 Ask me about *Python, C#, SQL, Git, and Excel*
 - 📫 How to reach me: *zahidullahsadat6@gmail.com*
-- ⚡ Fun fact: I enjoy solving problems and turning data into useful insights.
+- ⚡ Fun fact: I love automating boring stuff!
+
 
 ---
 
